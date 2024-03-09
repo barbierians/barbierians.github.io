@@ -10,3 +10,11 @@ this is some serious **bullshit**
 *please do not pay any attention*
 
 Check out the weather [Here](https://wttr.in?boston)
+
+1. One
+2. Two
+3. Three
+
+- dot
+   - subdot
+- dot again
